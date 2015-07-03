@@ -2,6 +2,6 @@
 
 
 
-import IPy
+from IPy import IP 
 
-print IPy.ip()
+print IP('8.8.8.8').iptypr()
