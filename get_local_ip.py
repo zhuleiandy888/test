@@ -4,4 +4,4 @@
 
 from IPy import IP 
 
-print IP('8.8.8.8').iptypr()
+print IP('8.8.8.8').iptype()
